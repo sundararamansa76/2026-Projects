@@ -4,7 +4,7 @@ def add_numbers(a, b):
     return result
 
 # Assign values to variables.
-num1 = 5
+num1 = 15
 num2 = 10
 
 # Call the function and store the returned value.
